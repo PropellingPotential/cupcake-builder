@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cupcake-builder/static/css/main.e6c13ad2.css",
+    "main.js": "/cupcake-builder/static/js/main.d40e0fda.js",
+    "static/js/453.cc70e790.chunk.js": "/cupcake-builder/static/js/453.cc70e790.chunk.js",
+    "index.html": "/cupcake-builder/index.html",
+    "main.e6c13ad2.css.map": "/cupcake-builder/static/css/main.e6c13ad2.css.map",
+    "main.d40e0fda.js.map": "/cupcake-builder/static/js/main.d40e0fda.js.map",
+    "453.cc70e790.chunk.js.map": "/cupcake-builder/static/js/453.cc70e790.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d40e0fda.js"
+  ]
+}
